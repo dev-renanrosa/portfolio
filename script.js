@@ -1,3 +1,3 @@
 document.addEventListener("DOMContentLoaded", () => {
-    console.log("Portfólio carregado com sucesso!");
+  console.log("Portfólio de Renan Rosa carregado com sucesso!");
 });
